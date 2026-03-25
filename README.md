@@ -40,8 +40,11 @@ Random Forest generally provides better accuracy compared to Linear Regression.
 
 <img width="2083" height="1476" alt="forecast_results" src="https://github.com/user-attachments/assets/b9fbadd8-c40d-41c7-827d-577e398a4392" />
 
-##  Repository Structure<img width="2383" height="1473" alt="eda_charts" src="https://github.com/user-attachments/assets/936ee503-dee7-4937-ad3e-70ff9904224e" />
+<img width="2383" height="1473" alt="eda_charts" src="https://github.com/user-attachments/assets/fcb615a1-984a-4384-b92a-4c4e5182c696" />
 
+
+
+##  Repository Structure
 FUTURE_ML_01/
 │
 ├── FUTURE_ML_01.ipynb
