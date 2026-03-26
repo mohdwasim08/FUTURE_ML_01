@@ -34,14 +34,6 @@ Random Forest generally provides better accuracy compared to Linear Regression.
 2. Run all cells step by step
 3. View the predictions and output graphs
 
-##  Output
-
-<img width="1485" height="730" alt="feature_importance" src="https://github.com/user-attachments/assets/77aa4676-6297-438f-91d5-9d1c947bf091" />
-
-
-<img width="2083" height="1476" alt="forecast_results" src="https://github.com/user-attachments/assets/f2f25ad7-1af4-466b-9461-ab3dd0089c0c" />
-<img width="2383" height="1473" alt="eda_charts" src="https://github.com/user-attachments/assets/6195e6be-5e01-4118-b5bb-9ddbdc0f35f3" />
-
 ##  Repository Structure
 FUTURE_ML_01/
 │
